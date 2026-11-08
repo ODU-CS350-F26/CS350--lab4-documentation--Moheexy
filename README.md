@@ -1,3 +1,4 @@
+* [Reports]()
 # WordCounter
 
 There are a number of applications in which it is useful to know what the most
